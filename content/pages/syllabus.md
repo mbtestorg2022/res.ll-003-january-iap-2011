@@ -24,10 +24,78 @@ To generate student interested in applied electromagnetics, RF, analog, signal p
 Calendar
 --------
 
-| SES # | LECTURES | ACTIVITIES |
-| --- | --- | --- |
-| 1 | Radar basics | Introduce project |
-| 2 | Antenna design | Doppler experiment |
-| 3 | Modular system RF design | Ranging experiment |
-| 4 | Synthetic Aperture Radar (SAR) imaging | SAR imaging experiment |
-| 5 || {{< td-colspan 2 >}}Presentation of student field experiment results{{< /td-colspan >}} |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURES
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Radar basics
+{{< tdclose >}}
+{{< tdopen >}}
+Introduce project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Antenna design
+{{< tdclose >}}
+{{< tdopen >}}
+Doppler experiment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Modular system RF design
+{{< tdclose >}}
+{{< tdopen >}}
+Ranging experiment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Synthetic Aperture Radar (SAR) imaging
+{{< tdclose >}}
+{{< tdopen >}}
+SAR imaging experiment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Presentation of student field experiment results
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

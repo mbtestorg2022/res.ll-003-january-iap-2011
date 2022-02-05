@@ -36,11 +36,48 @@ MATLAB is presumed installed on your laptop. Some MATLAB code is supplied below 
 Experiments
 -----------
 
-| EXPERIMENTS | SUPPORTING FILES |
-| --- | --- |
-| Experiment 1: Doppler vs. time ([PDF]({{< baseurl >}}/resources/mitres_ll_003iap11_exp01)) | MATLAB and sample WAV ([ZIP - 5.7MB](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/doppler_files.zip)) (This ZIP file contains: 2 .m files and 1 .wav file.) |
-| Experiment 2: Ranging vs. time ([PDF]({{< baseurl >}}/resources/mitres_ll_003iap11_exp02)) | MATLAB and sample WAV ([ZIP - 12.5MB](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/ranging_files.zip)) (This ZIP file contains: 2 .m files, 1 .wav file and 1 .tif image.) |
-| Experiment 3: SAR imaging ([PDF]({{< baseurl >}}/resources/mitres_ll_003iap11_exp03)) | MATLAB and sample WAV ([ZIP - 44.7MB](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/sar_files.zip)) (This ZIP file contains: 1 .jpeg image, 3 .m files, 1 .wav file and 2 .mat files.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXPERIMENTS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Experiment 1: Doppler vs. time ([PDF]({{< baseurl >}}/resources/mitres_ll_003iap11_exp01))
+{{< tdclose >}}
+{{< tdopen >}}
+MATLAB and sample WAV ([ZIP - 5.7MB](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/doppler_files.zip)) (This ZIP file contains: 2 .m files and 1 .wav file.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Experiment 2: Ranging vs. time ([PDF]({{< baseurl >}}/resources/mitres_ll_003iap11_exp02))
+{{< tdclose >}}
+{{< tdopen >}}
+MATLAB and sample WAV ([ZIP - 12.5MB](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/ranging_files.zip)) (This ZIP file contains: 2 .m files, 1 .wav file and 1 .tif image.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Experiment 3: SAR imaging ([PDF]({{< baseurl >}}/resources/mitres_ll_003iap11_exp03))
+{{< tdclose >}}
+{{< tdopen >}}
+MATLAB and sample WAV ([ZIP - 44.7MB](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/sar_files.zip)) (This ZIP file contains: 1 .jpeg image, 3 .m files, 1 .wav file and 2 .mat files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Selected Final Results
 ----------------------
