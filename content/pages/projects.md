@@ -27,9 +27,9 @@ _NOTE_: the block diagram and parts lists below specify a MAX414CPD+ quad op-amp
 
 Radar System design slides: block diagram, schematics, bill of material, and fabrication instructions ([PDF - 4.6MB]({{< baseurl >}}/resources/mitres_ll_003iap11_proj_in))
 
-Block diagram (high resolution image) ([JPEG](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/proj_block.jpg))
+Block diagram (high resolution image) ({{% resource_link "04ac574b-7f80-34ef-3832-511e2fbd69b9" "JPEG" %}})
 
-Circuit schematics (high resolution image) ([JPEG](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/proj_schematic.jpg))
+Circuit schematics (high resolution image) ({{% resource_link "229c579d-666d-cb34-c908-92607f4e6809" "JPEG" %}})
 
 MATLAB is presumed installed on your laptop. Some MATLAB code is supplied below for each experiment. (The utility dbv.m is a function which takes the 20\*log10(abs(your radar signal)) — used throughout the experiments.)
 
@@ -54,7 +54,7 @@ SUPPORTING FILES
 Experiment 1: Doppler vs. time ([PDF]({{< baseurl >}}/resources/mitres_ll_003iap11_exp01))
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB and sample WAV ([ZIP - 5.7MB](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/doppler_files.zip)) (This ZIP file contains: 2 .m files and 1 .wav file.)
+MATLAB and sample WAV ({{% resource_link "d3af93ce-46ee-dd15-8733-5b1c62712346" "ZIP - 5.7MB" %}}) (This ZIP file contains: 2 .m files and 1 .wav file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +63,7 @@ MATLAB and sample WAV ([ZIP - 5.7MB](/resources/res-ll-003-build-a-small-radar-s
 Experiment 2: Ranging vs. time ([PDF]({{< baseurl >}}/resources/mitres_ll_003iap11_exp02))
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB and sample WAV ([ZIP - 12.5MB](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/ranging_files.zip)) (This ZIP file contains: 2 .m files, 1 .wav file and 1 .tif image.)
+MATLAB and sample WAV ({{% resource_link "9ef20c7d-60c4-335a-a045-292cc0520033" "ZIP - 12.5MB" %}}) (This ZIP file contains: 2 .m files, 1 .wav file and 1 .tif image.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +72,7 @@ MATLAB and sample WAV ([ZIP - 12.5MB](/resources/res-ll-003-build-a-small-radar-
 Experiment 3: SAR imaging ([PDF]({{< baseurl >}}/resources/mitres_ll_003iap11_exp03))
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB and sample WAV ([ZIP - 44.7MB](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects/sar_files.zip)) (This ZIP file contains: 1 .jpeg image, 3 .m files, 1 .wav file and 2 .mat files.)
+MATLAB and sample WAV ({{% resource_link "22f9536b-6536-1a75-c261-6843cac27654" "ZIP - 44.7MB" %}}) (This ZIP file contains: 1 .jpeg image, 3 .m files, 1 .wav file and 2 .mat files.)
 {{< tdclose >}}
 
 {{< trclose >}}

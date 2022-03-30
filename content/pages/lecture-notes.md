@@ -4,7 +4,7 @@ title: Lecture Notes
 uid: 3ff6b421-4d6c-bf3e-0871-ac6514085bf0
 ---
 
-This table presents selected lecture slides.  A presentation introducing the radar design project can be found on the [projects](/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/projects) page.
+This table presents selected lecture slides.  A presentation introducing the radar design project can be found on the {{% resource_link "aa720747-bfe2-cb8b-c637-a22b7f6f4103" "projects" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}

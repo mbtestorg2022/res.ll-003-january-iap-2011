@@ -7,6 +7,7 @@ image_metadata:
   caption: Circuit schematic.
   credit: ''
   image-alt: Detailed circuit schematic drawing of the radar system.
+parent_uid: aa720747-bfe2-cb8b-c637-a22b7f6f4103
 resourcetype: Image
 title: proj_schematic.jpg
 uid: 229c579d-666d-cb34-c908-92607f4e6809
